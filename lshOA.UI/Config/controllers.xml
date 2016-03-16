@@ -22,4 +22,7 @@
   <object type="lshOA.UI.Controllers.MyHomeController, lshOA.UI" singleton="false" >
     <property name="userInfoBLL" ref="userInfoService" />
   </object>
+  <object type="lshOA.UI.Controllers.WF_TempController, lshOA.UI" singleton="false" >
+    <property name="wf_TempBLL" ref="wf_TempService" />
+  </object>
 </objects>

@@ -209,6 +209,7 @@
     <Compile Include="Controllers\RoleInfoController.cs" />
     <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Controllers\UserInfoController.cs" />
+    <Compile Include="Controllers\WF_TempController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -343,10 +344,14 @@
     <Content Include="Views\ActionInfo\SetActionRole.cshtml" />
     <Content Include="Views\UserInfo\SetUserActionInfo.cshtml" />
     <Content Include="Views\Search\Index.cshtml" />
+    <Content Include="Views\WF_Temp\Index-beifen.cshtml" />
+    <Content Include="Views\WF_Temp\Index.cshtml" />
+    <Content Include="Views\WF_Temp\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Content\Images\" />
+    <Folder Include="Content\KinderEditor\" />
     <Folder Include="Content\ligerUI\images\" />
     <Folder Include="Content\ligerUI\jquery-validation\" />
     <Folder Include="Content\ligerUI\jquery\" />

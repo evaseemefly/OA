@@ -206,3 +206,17 @@ D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.DALFactory\obj\Debug\lshOA.DALFactory.csprojResolveAssemblyReference.cache
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.DALFactory\obj\Debug\lshOA.DALFactory.dll
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.DALFactory\obj\Debug\lshOA.DALFactory.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.DALFactory.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.DALFactory.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\EntityFramework.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.DALSQLSer.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.IDAL.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.MODEL.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.DALSQLSer.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.IDAL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\EntityFramework.xml
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\lshOA.MODEL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\obj\Debug\lshOA.DALFactory.csprojResolveAssemblyReference.cache
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\obj\Debug\lshOA.DALFactory.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.DALFactory\obj\Debug\lshOA.DALFactory.pdb

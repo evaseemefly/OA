@@ -369,6 +369,7 @@
     <div style="overflow-y:hidden">
         <table id="tt" style="width: 700px;" title="标题，可以使用代码进行初始化，也可以使用这种属性的方式" iconcls="icon-edit"></table>
     </div>
+    
     @*添加窗体*@    
     <div id="addDiv"  title="创建新用户" style="width:400px;padding:30px 60px">
         @using (Ajax.BeginForm("AddActionInfo", "ActionInfo", new { }, new AjaxOptions() { Confirm = "你确定添加吗?", HttpMethod = "post", OnSuccess = "afterAdd" }, new { id = "addForm" }))

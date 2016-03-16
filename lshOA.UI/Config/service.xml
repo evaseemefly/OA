@@ -10,5 +10,7 @@
   </object>
   <object type="lshOA.BLL.BookBLL, lshOA.BLL" singleton="false" name="bookService" >
   </object>
+  <object type="lshOA.BLL.WF_TempBLL, lshOA.BLL" singleton="false" name="wf_TempService" >
+  </object>
 </objects>
 

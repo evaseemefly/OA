@@ -20,7 +20,7 @@ namespace lshOA.COMMON
         /// </summary>
         static MemecacheHelper()
         {
-            string[] serverlist = { "192.168.1.100:11211", "192.168.1.107:11211" };//一定要将地址写到Web.config文件中。
+            string[] serverlist = { "192.168.1.100:11211", "192.168.1.106:11211" };//一定要将地址写到Web.config文件中。
             //初始化池
             SockIOPool pool = SockIOPool.GetInstance();
 

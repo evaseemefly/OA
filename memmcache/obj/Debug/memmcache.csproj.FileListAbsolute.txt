@@ -96,3 +96,13 @@ D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\memmcache\obj\Debug\memmcache.csprojResolveAssemblyReference.cache
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\memmcache\obj\Debug\memmcache.exe
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\memmcache\obj\Debug\memmcache.pdb
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\bin\Debug\memmcache.exe.config
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\bin\Debug\memmcache.exe
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\bin\Debug\memmcache.pdb
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\bin\Debug\Commons.dll
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\bin\Debug\log4net.dll
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\bin\Debug\Memcached.ClientLibrary.dll
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\obj\Debug\memmcache.csprojResolveAssemblyReference.cache
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\obj\Debug\memmcache.exe
+D:\02编程\2016年\01协同开发\OA\OA\memmcache\obj\Debug\memmcache.pdb

@@ -130,3 +130,12 @@ D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.MODEL\obj\Debug\lshOA.MODEL.csprojResolveAssemblyReference.cache
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.MODEL\obj\Debug\lshOA.MODEL.dll
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.MODEL\obj\Debug\lshOA.MODEL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\lshOA.MODEL.dll.config
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\lshOA.MODEL.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\lshOA.MODEL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\EntityFramework.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\EntityFramework.xml
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\obj\Debug\lshOA.MODEL.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\obj\Debug\lshOA.MODEL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\obj\Debug\lshOA.MODEL.csprojResolveAssemblyReference.cache

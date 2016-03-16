@@ -150,3 +150,13 @@ D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.IDAL\obj\Debug\lshOA.IDAL.csprojResolveAssemblyReference.cache
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.IDAL\obj\Debug\lshOA.IDAL.dll
 D:\04重新后的学习资料\03自己写的源码\lshOA-2-15-实现搜索功能\lshOA-2-14-实现搜索功能\lshOA.IDAL\obj\Debug\lshOA.IDAL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\bin\Debug\lshOA.IDAL.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\bin\Debug\lshOA.IDAL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\bin\Debug\EntityFramework.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\bin\Debug\lshOA.MODEL.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\bin\Debug\lshOA.MODEL.pdb
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\bin\Debug\EntityFramework.xml
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\obj\Debug\lshOA.IDAL.csprojResolveAssemblyReference.cache
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\obj\Debug\lshOA.IDAL.dll
+D:\02编程\2016年\01协同开发\OA\OA\lshOA.IDAL\obj\Debug\lshOA.IDAL.pdb
