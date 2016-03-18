@@ -138,4 +138,3 @@ D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\EntityFramework.x
 D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\bin\Debug\zh-Hans\EntityFramework.resources.dll
 D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\obj\Debug\lshOA.MODEL.dll
 D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\obj\Debug\lshOA.MODEL.pdb
-D:\02编程\2016年\01协同开发\OA\OA\lshOA.MODEL\obj\Debug\lshOA.MODEL.csprojResolveAssemblyReference.cache

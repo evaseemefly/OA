@@ -209,6 +209,7 @@
     <Compile Include="Controllers\RoleInfoController.cs" />
     <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Controllers\UserInfoController.cs" />
+    <Compile Include="Controllers\WF_InstanceController.cs" />
     <Compile Include="Controllers\WF_TempController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -347,6 +348,8 @@
     <Content Include="Views\WF_Temp\Index-beifen.cshtml" />
     <Content Include="Views\WF_Temp\Index.cshtml" />
     <Content Include="Views\WF_Temp\Create.cshtml" />
+    <Content Include="Views\WF_Instance\Index.cshtml" />
+    <Content Include="Views\WF_Instance\StartWorkflow.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -25,4 +25,8 @@
   <object type="lshOA.UI.Controllers.WF_TempController, lshOA.UI" singleton="false" >
     <property name="wf_TempBLL" ref="wf_TempService" />
   </object>
+  <object type="lshOA.UI.Controllers.WF_InstanceController, lshOA.UI" singleton="false" >
+    <property name="wf_TempBLL" ref="wf_TempService" />
+    <property name="userInfoBLL" ref="userInfoService" />
+  </object>
 </objects>
